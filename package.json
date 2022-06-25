@@ -31,7 +31,7 @@
     "next": "9.3.5",
     "next-offline": "3.3.1",
     "next-routes": "1.4.2",
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.7",
     "nodemon": "1.18.11",
     "npm": "6.14.4",
     "react": "16.8.5",
