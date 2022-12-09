@@ -20,7 +20,7 @@
     "cookie-parser": "1.4.4",
     "cross-env": "5.2.0",
     "dom-events": "0.1.1",
-    "express": "4.16.3",
+    "express": "4.17.3",
     "fetch": "1.1.0",
     "i": "0.3.6",
     "inline-style-prefixer": "5.1.0",
